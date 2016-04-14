@@ -4,26 +4,26 @@ ThinkJS website code
 
 ![www.thinkjs.org](http://p0.qhimg.com/d/inn/20b8a871/1.jpg)
 
-## Installation(克隆到本地仓库)
+## 1. Installation(克隆到本地仓库)
 
 ```
 git clone git@github.com:75team/www.thinkjs.org.git
 ```
 
-## Install dependencies(安装依赖)
+## 2. Install dependencies(安装依赖)
 
 ```
 npm install
 (也可以安装淘宝依赖：npm install --registry=https://registry.npm.taobao.org --verbose)
 ```
 
-## Compile
+## 3. Compile
 
 ```
 npm run compile
 ```
 
-## Start server
+## 4. Start server
 
 ```
 npm start
