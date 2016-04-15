@@ -1,6 +1,7 @@
 # www.thinkjs.org
 
 ThinkJS website code
+[thinkjs安装命令链接](https://github.com/xiaojiandong/blogAndResourceCollect/wiki/thinkjs)
 
 ![www.thinkjs.org](http://p0.qhimg.com/d/inn/20b8a871/1.jpg)
 
