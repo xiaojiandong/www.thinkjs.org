@@ -1,7 +1,8 @@
 # www.thinkjs.org
 
 ThinkJS website code <br />
-##[thinkjs安装命令链接](https://github.com/xiaojiandong/blogAndResourceCollect/wiki/thinkjs)
+## thinkjs是基于nodejs的MVC框架
+## [thinkjs安装命令链接](https://github.com/xiaojiandong/blogAndResourceCollect/wiki/thinkjs)
 
 ![www.thinkjs.org](http://p0.qhimg.com/d/inn/20b8a871/1.jpg)
 
