@@ -34,3 +34,6 @@ npm start
 ## How to visit(在本机浏览器中输入：http://127.0.0.1:7777/)
 
 Open url `http://127.0.0.1:7777/` in browser.
+
+## 目录结构：
+![image](https://github.com/xiaojiandong/www.thinkjs.org/blob/master/image/thinkjs-project-view.jpg)
